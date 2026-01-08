@@ -71,6 +71,7 @@ This project demonstrates my ability to:
 ## 📫 Let’s Connect
 
 * 💼 *LinkedIn:* [https://www.linkedin.com/in/glan-monis](https://www.linkedin.com/in/glan-monis)
+* 🐦 Twitter (X): https://x.com/glan_monis
 * 💻 *Portfolio:* (Add when ready)
 * 📧 *Email:* [glanpritheshmonis@gmail.com](mailto:glanpritheshmonis@gmail.com)
 
