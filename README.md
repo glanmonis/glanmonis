@@ -7,8 +7,9 @@
 </div>
 
 ###
-
+<div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=+Fira+Code&pause=1000&color=F76E20&background=FF8F0000&width=435&lines=%F0%9F%91%8BHey%E2%80%A6+I%E2%80%99m+Glan+Prithesh+Monis+;+%E2%9C%A8Aspiring+web+%26+software+developer+%F0%9F%92%BB+;Learning+to+code%2C+one+bug+at+a+time+%F0%9F%90%9B%F0%9F%92%A1" alt="Typing SVG" /></a>
+</div>
 
 <p align="left">Hello World!!</p>
 
