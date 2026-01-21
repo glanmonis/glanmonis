@@ -18,7 +18,9 @@
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="left">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=+Fira+Code&size=22&pause=1000&color=7F6DFC&background=FF8F0000&width=1000&height=70&lines=First%2C+solve+the+problem.+Then%2C+Google+how+to+code+it.%F0%9F%98%82;If+it+works%2C+don%E2%80%99t+touch+it%E2%80%A6+unless+the+deadline+is+tomorrow;Coding%3A+where+one+missing+semicolon+can+ruin+your+whole+day;Debugging+is+like+being+a+detective+in+a+crime+movie+where+you+are+the+criminal+%F0%9F%94%8D" alt="Typing SVG" /></a>
+</p>
 
 ###
 
