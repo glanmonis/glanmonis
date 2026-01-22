@@ -184,6 +184,12 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
 </div>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+👋+I'm+Glan+Monis;BCA+Graduate;Aspiring+Web+Developer;Frontend+%7C+JavaScript+%7C+PHP" />
+</p>
+
+
+
 ###
 
 <div align="center">
