@@ -78,7 +78,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
   <img width="12" />
   
-   <img src="https://skillicons.dev/icons?i=php&theme=dark" />
+   <img src="https://skillicons.dev/icons?i=php&theme=dark" height="40" alt="photoshop logo"  />
+  <img width="12" />
    
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
   <img width="12" />
