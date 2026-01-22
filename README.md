@@ -146,10 +146,11 @@
 
 <!-- Snake animation -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/glanmonis/glanmonis/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/glanmonis/glanmonis/output/github-contribution-grid-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/glanmonis/glanmonis/output/github-contribution-grid-snake.svg">
 </picture>
+
 
 ###
 
@@ -213,9 +214,9 @@
 <br clear="both">
 
 
-<h2 align="center">🤝 Let’s Connect </h2>
+<h2 align="left">🤝 Let’s Connect </h2>
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/glan-monis/" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
     
