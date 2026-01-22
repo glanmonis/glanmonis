@@ -40,8 +40,6 @@
 
 <br clear="both">
 
-<img align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWF2dnR2OTlqNWJkYWswbGtob2lhMXdqY2k1dmxpNjFrOGh2NXp6aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif"  />
-
 ###
 
 <br clear="both">
