@@ -17,27 +17,20 @@
   <img height="40" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"  />
 </div>
 
-###
 
 <h3 text-align: "left;">💭Thoughts</h3>
 <p align="left">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=+Fira+Code&size=23&pause=1000&color=6CC644&background=CDFF7500&width=1000&height=70&lines=%22First%2C+solve+the+problem.+Then%2C+Google+how+to+code+it.%F0%9F%98%82%22;%22If+it+works%2C+don%E2%80%99t+touch+it%E2%80%A6+unless+the+deadline+is+tomorrow.%F0%9F%98%9C%22;%22Learning+never+ends+in+tech+-+you+just+change+the+error+messages.%22;%22Programming+is+10%25+writing+code+and+90%25+wondering+why+it+doesn%E2%80%99t+work.%22" alt="Typing SVG" /></a>
 </p>
 
-###
-<br clear="both">
-
 <div align="center">
   <img height="40" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"  />
 </div>
 
 <br clear="both">
-###
+
 
 <h2 align="left">🏆 Tech Stack</h2>
-
-###
-
 <div align="left">
   
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
