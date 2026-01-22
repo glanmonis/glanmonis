@@ -215,7 +215,7 @@
 ### 🎧 Spotify Playing
 
 <p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USERNAME&cover_image=true&theme=default&show_offline=true&background_color=0d1117" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31af37f4jaz2b254rbdnekkqtezi&cover_image=true&theme=default&show_offline=true&background_color=0d1117" />
 </p>
 
 
