@@ -77,8 +77,9 @@
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="18" />
+  
+   <img src="https://skillicons.dev/icons?i=php&theme=dark" />
+   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -196,6 +197,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,linux,vscode&theme=dark" />
+ 
 </p>
 
 <p align="center">
