@@ -7,7 +7,8 @@
 ###
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=+Fira+Code&size=30&pause=1000&color=F76E20&background=FF8F0000&width=700&height=70&lines=%F0%9F%91%8BHey%E2%80%A6+I%E2%80%99m+Glan+Prithesh+Monis+;%E2%9C%A8Aspiring+web+%26+software+developer+%F0%9F%92%BB+;Learning+to+code%2C+one+bug+at+a+time+%F0%9F%90%9B%F0%9F%92%A1" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=+Fira+Code&size=30&pause=1000&color=F76E20&background=FF8F0000&width=700&height=70&lines=%F0%9F%91%8BHey%E2%80%A6+I%E2%80%99m+Glan+Prithesh+Monis+;%E2%9C%A8Aspiring+web+%26+software+developer+%F0%9F%92%BB+;Learning+to+code%2C+one+bug+at+a+time+%F0%9F%90%9B%F0%9F%92%A1" alt="Typing SVG" /></a>
 </p>
 
 ###
@@ -145,12 +146,11 @@
 <br clear="both">
 
 <!-- Snake animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/glanmonis/glanmonis/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/glanmonis/glanmonis/output/github-contribution-grid-snake.svg">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/glanmonis/glanmonis/output/github-contribution-grid-snake.svg">
-</picture>
+<br clear="both">
 
+<img src="https://raw.githubusercontent.com/glanmonis/glanmonis/output/snake.svg" alt="Snake animation" />
+
+###
 
 ###
 
@@ -203,9 +203,9 @@
 
 <!-- pacman animation -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/glanmonis/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/glanmonis/output/pacman-contribution-graph.svg">
-  <img alt="Pac‑Man animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/glanmonis/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/glanmonis/glanmonis/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/glanmonis/glanmonis/output/pacman-contribution-graph.svg">
+  <img alt="Pac‑Man animation" src="https://raw.githubusercontent.com/glanmonis/glanmonis/output/pacman-contribution-graph.svg">
 </picture>
 
 
