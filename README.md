@@ -60,12 +60,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
+  
+   <img align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWF2dnR2OTlqNWJkYWswbGtob2lhMXdqY2k1dmxpNjFrOGh2NXp6aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif"  />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
-  
-  <img align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWF2dnR2OTlqNWJkYWswbGtob2lhMXdqY2k1dmxpNjFrOGh2NXp6aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif"  />
-  
-  
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
@@ -169,16 +168,23 @@
 ###
 
 <div align="left">
+  <a href="https://www.linkedin.com/in/your-username/" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    
+  <a href="https://www.linkedin.com/in/your-username/" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    
+  <a href="https://www.linkedin.com/in/your-username/" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+    
+  <a href="https://www.linkedin.com/in/your-username/" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+    
+  <a href="https://www.linkedin.com/in/your-username/" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+    
+  <a href="https://www.linkedin.com/in/your-username/" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-
-  <a href="https://github.com/yourname">
-  <img src="github-icon.svg" width="40">
-</a>
 </div>
 
 ###
