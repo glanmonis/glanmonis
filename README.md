@@ -24,14 +24,13 @@
 </p>
 
 ###
-<p align="left"></p>
-
-###
+<br clear="both">
 
 <div align="center">
   <img height="40" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"  />
 </div>
 
+<br clear="both">
 ###
 
 <h2 align="left">🏆 Tech Stack</h2>
@@ -137,89 +136,100 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
 </div>
 
+
+###
+<div align="center">
+  <img height="40" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"  />
+</div>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/glanmonis/glanmonis/output/snake.svg" alt="Snake animation" />
+
 ###
 
 <div align="center">
   <img height="40" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"  />
 </div>
 
-###
+##
 
-
-<p align="left">Hello World!!</p>
-
-###
-
-<div align="center">
-  <img height="40" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"  />
-</div>
-
-###
-
-
-###
-
-<div align="center">
+<h2 align="left"> 📊 GitHub Overview</h2>
+<div align="left">
+  <!-- GitHub overall stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=glanmonis&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
+
+<!-- Most used programming languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=glanmonis&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=gotham&hide_border=true&order=2" height="150" alt="languages graph" /> <br>
+</div>
+
+<div align="center">
+  <!-- Daily contribution streak -->
   <img src="https://streak-stats.demolab.com?user=glanmonis&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=05&order=3" height="150" alt="streak graph" /> <br>
+  <!-- GitHub achievements / trophies -->
   <img src="https://github-profile-trophy.vercel.app?username=glanmonis&theme=kimbie_dark&column=4&row=5&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph" /> <br>
+  <!-- Contribution activity graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=glanmonis&radius=16&theme=github-dark&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
 
-<p align="left">Hello World!!</p>
+<div align="center">
+  <img height="40" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"  />
+</div>
+
+##
+
+<h2 align="left"> 🎧 Now Playing on Spotify </h2>
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31af37f4jaz2b254rbdnekkqtezi">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31af37f4jaz2b254rbdnekkqtezi&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+<div align="center">
+  <img height="40" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"  />
+</div>
+
+<br clear="both">
 
 ###
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/glanmonis/glanmonis/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/glanmonis/glanmonis/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/glanmonis/glanmonis/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<br clear="both">
+
+
+<h2 align="left">🤝 Let’s Connect </h2>
+
 <div align="left">
-  <a href="https://www.linkedin.com/in/your-username/" target="_blank">
+  <a href="https://www.linkedin.com/in/glan-monis/" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
     
-  <a href="https://www.linkedin.com/in/your-username/" target="_blank">
+  <a href="https://www.instagram.com/glan_monis/" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
     
-  <a href="https://www.linkedin.com/in/your-username/" target="_blank">
+  <a href="https://x.com/glan_monis" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
     
-  <a href="https://www.linkedin.com/in/your-username/" target="_blank">
+  <a href="glanpritheshmonis@gmail.com" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
     
-  <a href="https://www.linkedin.com/in/your-username/" target="_blank">
+  <a href="https://wa.me/917483350411" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
     
-  <a href="https://www.linkedin.com/in/your-username/" target="_blank">
+  <a href="https://t.me/Glan_Monis" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
 </div>
 
-
-
-
-###
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+👋+I'm+Glan+Monis;BCA+Graduate;Aspiring+Web+Developer;Frontend+%7C+JavaScript+%7C+PHP" />
-</p>
-
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,linux,vscode&theme=dark" />
- 
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=glanmonis&label=Profile%20Views&color=blueviolet&style=flat" />
-</p>
-
-### 🎧 Spotify Playing
-
-<p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31af37f4jaz2b254rbdnekkqtezi&cover_image=true&theme=default&show_offline=true&background_color=0d1117" />
-</p>
-
-
-
+<br clear="both">
 
 ###
 
