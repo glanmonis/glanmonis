@@ -30,7 +30,7 @@
 <br clear="both">
 
 
-<h2 align="left">🏆 Tech Stack</h2>
+<h2 align="left">🛠️ Tech Stack</h2>
 <div align="left">
   
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
@@ -82,7 +82,6 @@
   <img width="12" />
   
   
-   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -148,17 +147,20 @@
 
 ##
 
-<h2 align="left"> 📊 GitHub Overview</h2>
+<h2 align="center"> 📊 GitHub Overview</h2>
 <<div align="left">
   <!-- GitHub overall stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=glanmonis&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-<!-- Most used programming languages -->
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=glanmonis&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=gotham&hide_border=true&order=2" height="150" alt="languages graph" />
 </div>
 
-<div align="center">
+<div align="left">
   <!-- Daily contribution streak -->
-  <img src="https://streak-stats.demolab.com?user=glanmonis&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=05&order=3" height="150" alt="streak graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=glanmonis&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=05&order=3" height="150" alt="streak graph" /> 
+  <!-- Most used programming languages -->
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=glanmonis&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=gotham&hide_border=true&order=2" height="150" alt="languages graph" />
+</div>
+<br>
+<div align="center">
   <!-- GitHub achievements / trophies -->
   <img src="https://github-profile-trophy.vercel.app?username=glanmonis&theme=kimbie_dark&column=4&row=5&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph" /> <br>
   <!-- Contribution activity graph -->
