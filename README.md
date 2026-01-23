@@ -207,7 +207,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg" alt="Snake animation" />
 </div>
-https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg
 
 ###
 
