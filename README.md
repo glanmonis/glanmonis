@@ -176,8 +176,8 @@
 
 <h2 align="left"> 🏅 Holopin Badges </h2>
 <div align="center">
-  <a href="https://www.holopin.io/@glan_monis#">
-    <img src="https://www.holopin.io/@glan_monis#" alt="Holopin Badges" /> </a>
+  <a href="https://holopin.io/@glan_monis">
+    <img src="https://holopin.me/glan_monis" alt="Holopin Badges" /> </a>
 </div>
 
 <div align="center">
