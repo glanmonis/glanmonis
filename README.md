@@ -138,8 +138,9 @@
 <br clear="both">
 
 <!-- Snake animation -->
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
 
 <div align="center">
   <img height="40" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"  />
@@ -203,12 +204,10 @@
 ###
 
 <!-- pacman animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/glanmonis/glanmonis/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/glanmonis/glanmonis/output/pacman-contribution-graph.svg">
-  <img alt="Pac‑Man animation" src="https://raw.githubusercontent.com/glanmonis/glanmonis/output/pacman-contribution-graph.svg">
-</picture>
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg" alt="Snake animation" />
+</div>
+https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg
 
 ###
 
