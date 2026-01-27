@@ -129,8 +129,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
 </div>
 
-
 ###
+
 <div align="center">
   <img height="40" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"  />
 </div>
@@ -179,7 +179,6 @@
 <div align="center">
   <img height="40" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"  />
 </div>
-##
 
 <h2 align="left"> 🏅 Holopin Badges </h2>
 <div align="center">
@@ -191,7 +190,6 @@
   <img height="40" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"  />
 </div>
 
-##
 
 <h2 align="left"> 🎧 Now Playing on Spotify </h2>
 
