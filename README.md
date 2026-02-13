@@ -168,6 +168,20 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=glanmonis&radius=16&theme=github-dark&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
 
+
+
+
+
+
+
+ <img src="https://visitor-badge.feriirawann.repl.co?username=glanmonis&repo=YOUR_REPO_ID" alt="Visitor Badge" />
+
+
+
+
+
+
+
 <div align="center">
   <img height="40" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"  />
 </div>
