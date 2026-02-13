@@ -186,18 +186,6 @@
     <img src="https://holopin.me/glan_monis" alt="Holopin Badges" /> </a>
 </div>
 
-
-
-
-
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_text=My%20Page%20Visitors)
-
-
-
-
-
-
-
 <div align="center">
   <img height="40" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"  />
 </div>
