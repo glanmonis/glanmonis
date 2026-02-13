@@ -194,6 +194,8 @@
 <h2 align="left"> 🎧 Now Playing on Spotify </h2>
 
 <div align="center">
+
+  [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31af37f4jaz2b254rbdnekkqtezi&cover_image=true&theme=default)](https://open.spotify.com/user/31af37f4jaz2b254rbdnekkqtezi)
   <a href="https://open.spotify.com/user/31af37f4jaz2b254rbdnekkqtezi">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31af37f4jaz2b254rbdnekkqtezi&count=5" alt="Spotify recently played"  />
   </a>
