@@ -191,6 +191,24 @@
 </div>
 
 
+
+<h2 align="left">>☁️ Google Cloud Arcade & Skills Boost</h2>
+<div align="center">
+<p>
+Explore my Google Cloud learning progress, Arcade points, and earned badges.
+</p>
+<a href="https://www.skills.google/public_profiles/4dc48b06-6b4f-4d9a-967f-e7ccd5f84f26" target="_blank">
+  🔗 View My Google Cloud Skills Profile
+</a>
+</div>
+
+
+
+
+<div align="center">
+  <img height="40" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"  />
+</div>
+
 <h2 align="left"> 🎧 Now Playing on Spotify </h2>
 
 <div align="center">
