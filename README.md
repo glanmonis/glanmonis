@@ -203,6 +203,12 @@ Explore my Google Cloud learning progress, Arcade points, and earned badges.
 </div>
 
 
+<div align="center">
+  <a href="https://skills.google/public_profiles/4dc48b06-6b4f-4d9a-967f-e7ccd5f84f26">
+    <img src="https://img.shields.io/badge/Google%20Skills-Bronze%20League-orange?style=for-the-badge" />
+  </a>
+</div>
+
 
 
 <div align="center">
