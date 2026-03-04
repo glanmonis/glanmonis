@@ -196,7 +196,7 @@
 
 
 
-<h2 align="left">>☁️ Google Cloud Arcade & Skills Boost</h2>
+<h2 align="left"☁️ Google Cloud Arcade & Skills Boost</h2>
 <div align="center">
 <h3>
 Explore my Google Cloud learning progress, Arcade points, and earned badges.
