@@ -127,7 +127,8 @@
   <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
-  <img src="https://cdn.iconscout.com/icon/free/png-256/free-tableau-icon-svg-download-png-4489897.png" height="40" alt="bootstrap logo"  />
+  <img width="18" />
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-tableau-icon-svg-download-png-4489897.png" height="40" alt="Tableau logo"  />
   <img width="12" />
 </div>
 
