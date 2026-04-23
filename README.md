@@ -247,7 +247,7 @@ Explore my Google Cloud learning progress, Arcade points, and earned badges.
   </a>
     
   <a href="https://www.instagram.com/glan_monis/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  /> 
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/ig-instagram-icon.png" width="52" height="40" alt="instagram logo"  /> 
   </a>
     
   <a href="https://x.com/glan_monis" target="_blank">
